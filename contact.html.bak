@@ -73,7 +73,7 @@
                       </div> -->
                       <!-- <button type="submit" class="btn btn-default btn-lg">Send</button> -->
                       <a href="mailto:z416854@hotmail.com" class="btn btn-default btn-lg"> Send e-mail to me</a><br /><br />
-                      <a href="/assets/resume/Kris'Resume.pdf" class="btn btn-default btn-lg">Downlaod my resume</a>
+                      <a href="/assets/resume/Kris' Resume.pdf" class="btn btn-default btn-lg">Downlaod my resume</a>
                     </div>
                     <div class="col-md-5 address-container">
                       <ul class="list-unstyled">

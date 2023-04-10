@@ -56,10 +56,20 @@
       <div class="col-sm-8 col-sm-offset-2 section-container-spacer">
         <div class="text-center">
           <h1 class="h2">02 : Works</h1>
-          <p> I completed a four-month coding bootcamp where I learned C# and the .NET framework for the back-end, including OOP concepts and Postback. On the front-end, we covered a range of technologies including JavaScript, jQuery, HTML, CSS, Ajax, Bootstrap, and Vue.js. During the bootcamp, I worked on various side projects including a group project where we used .NET WebForm to create an ERP architecture project based on a bank scenario. I also worked on an individual project, using .NET Core MVC framework, to create a travel guide website.
-After completing the bootcamp, I worked on a company which has several financial cases, some of them are the Legal Person Property Insurance project and Taiwan Life Real Estate Management System.
-I used Angular.js and .NET WebAPI to create dynamic views and interact with the database, ensuring seamless functionality and user experience. I also utilized advanced Angular technologies such as NgRx and RxJS in the Taiwan Life Real Estate Management System project. Additionally, I have a basic understanding of front-end technologies like JavaScript, HTML, CSS, TypeScript, and Webpack, and I am experienced in using development tools such as Visual Studio Code, Angular CLI, and Git.
-Overall, I am passionate about coding and enjoy working on challenging projects that allow me to use my skills and learn new things. I am also a team player and value effective communication and collaboration in the workplace.</p>
+          <p>▸Legal person property insurance project
+- Utilized the Angular.js template syntax to create dynamic views and display data retrieved from the server-side using WebAPI.
+- Implemented dependency injection to facilitate modular code and maintainability in the Angular.js front-end.
+- Angular.js component lifecycle hooks to ensure efficient rendering and minimize performance issues.
+- Implemented RESTful APIs using .NET WebAPI to interact with the database and retrieve necessary data for the Angular.js front-end.
+- Conducted testing and debugging of both the Angular.js front-end and .NET WebAPI back-end to ensure seamless functionality and user experience.
+- Collaborated with cross-functional teams to ensure timely delivery of high-quality code and effective communication of project progress and issues.
+▸ Project of Taiwan Life Real Estate Management System
+- Project scale: several tens of Components and two Modules.
+- Complexity: have used several advanced Angular technologies such as NgRx and RxJS, which indicates that the code might be relatively complex.
+- Project accomplishment: successfully deployed the project to production.
+- Angular technology stack: have a basic understanding of Angular framework, including Template Syntax, Dependency Injection, and Component Lifecycle Hooks.
+- Front-end technology stack: have a basic understanding of several common front-end technologies, including JavaScript, HTML, CSS, TypeScript, and Webpack.
+- Development tools: have used several common development tools, including Visual Studio Code, Angular CLI, and Git.</p>
         </div>
       </div>
 
